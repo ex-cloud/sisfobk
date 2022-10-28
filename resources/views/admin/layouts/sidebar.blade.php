@@ -15,7 +15,7 @@
                     <a href="../features/dashboard" class="flex h-16 px-8 py-4 duration-200 w-80 place-items-center hover:bg-tosca-200">
                         <img src="{{ asset('home.png') }}" class="w-8 h-8 "/>
                         <span class="ml-8 font-semibold tracking-wider">
-                            Dashboards
+                            Dashboard
                         </span>
                     </a>
                 </li>
